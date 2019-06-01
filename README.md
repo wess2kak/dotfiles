@@ -2,7 +2,7 @@
 
 To use:
 
-`git clone https://github.com/wess2kak/local-linux-dotfiles && cd local-linux-dotfiles && chmod +x install.sh && sudo ./install.sh`
+`git clone https://github.com/wess2kak/dotfiles && cd dotfiles && chmod +x install.sh && sudo ./install.sh`
 
 This is mostly intended for myself.
 
